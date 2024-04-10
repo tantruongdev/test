@@ -4,9 +4,11 @@ TODO-GEEKUP is a project aimed at creating a simple to-do list application. It c
 
 ## Project Setup
 
-Open your terminal or command prompt.
+1. **Open your terminal or command prompt.**
 
-Navigate to the directory TODO-GEEKUP.
+2. **Navigate to the `TODO-GEEKUP` directory:**
+   ```bash
+   cd TODO-GEEKUP
 
 ## Server Component (database) Setup
 
